@@ -200,7 +200,7 @@ const bigProjects = {
     {
       image: require("./assets/images/cryptoCurrency.png"),
       projectName: "Crypto Trading Platform",
-      projectDesc: "A full-stack web app for tracking real-time cryptocurrency prices and 7-day trend charts using CoinGecko API.",
+      projectDesc: "A full-stack cryptocurrency analytics dashboard built using React, Spring Boot, and MySQL. Displays live market data and 7-day price charts using CoinGecko API.",
       footerLink: [
          {
         name: "View on GitHub",
