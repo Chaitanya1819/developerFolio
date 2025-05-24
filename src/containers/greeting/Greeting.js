@@ -42,12 +42,14 @@ export default function Greeting() {
                 <Button text="Contact me" href="#contact" />
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
-                    download="Resume.pdf"
+                    href="https://drive.google.com/file/d/14BZhhbHEWU_LXu34gBuabmL4gTG1b07s/view?usp=sharing"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="download-link-button"
                   >
-                    <Button text="Download my resume" />
+                  <Button text="Download my resume" />
                   </a>
+
                 )}
               </div>
             </div>
