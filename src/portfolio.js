@@ -178,7 +178,7 @@ const workExperiences = {
       company: "Tata Consultancy Services",
       companylogo: require("./assets/images/TCSLogo.jpg"),
       date: "May 2022 – Jul 2023",
-      desc: "Developed React-based UI components to modernize the insurance platform interface, improving responsiveness and maintainability. Integrated REST APIs for dynamic data rendering, applied Redux for state management, and collaborated in Agile ceremonies for timely feature delivery. Used Git and Jira for version control and task tracking."
+      desc: "At Tata Consultancy Services, I worked on improving MetLife’s internal insurance platform by building responsive UI components with React.js, Tailwind CSS, and Redux. I supported backend integration through API consumption and SQL data updates, and collaborated with senior developers to debug services and improve logging. As part of an Agile team, I participated in stand-ups, code reviews, and pair programming sessions to enhance code quality and delivery"
     }
   ]
 };
